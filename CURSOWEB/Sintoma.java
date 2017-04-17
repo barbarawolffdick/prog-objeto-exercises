@@ -5,7 +5,8 @@ private int duracao;
   public Sintoma( ){
     nome=""; duracao=0;
   }
-  public void setNome(String snome){
+  public void setNome(String snome){i
+
     nome=snome;
   }
   public void setDuracao(int iduracao){
